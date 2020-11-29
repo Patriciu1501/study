@@ -59,7 +59,7 @@ int main()
     soundEnd.setBuffer(endSoundBuffer);
 
     SoundBuffer jumpSoundBuffer;
-    jumpSoundBuffer.loadFromFile("audio/Spank.mp3");
+    jumpSoundBuffer.loadFromFile("audio/Spank.mp3"); // hello lordane order
     Sound soundJump;
     soundJump.setBuffer(jumpSoundBuffer);
 
