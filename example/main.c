@@ -4,5 +4,7 @@
 int main()
 {
     itsMyPrint();
+    my();
+    prgrm();
     return 0;
 }
