@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2020-12-11T15:33:46. -->
+<!-- Written by QtCreator 4.3.1, 2020-12-13T01:43:48. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -234,7 +234,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">example2</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/git/study/example/example.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments">it’s a beautiful life but we gonna die</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">example.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>

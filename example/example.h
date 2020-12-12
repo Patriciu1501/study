@@ -9,6 +9,7 @@
 void itsMyPrint();
 void my();
 void prgrm();
+float koreni(float A);
 
 
 #endif // EXAMPLE_H
