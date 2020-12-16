@@ -14,8 +14,7 @@ void itsMyPrint()
 
 float koreni(float A)
 {
-    float rezultat = sqrt(A);
 
-    return rezultat;
+    return sqrt(A);;
 
 }
